@@ -2,6 +2,7 @@
 ASP.NET-MVC website
 
 This code main's purpose is to create a website to keep track of your book library. To carry out this task I have implemented the following tasks:
+
   -List all books
   
   -List books by category
@@ -12,6 +13,7 @@ Both "category" and "author" listings have been asumed to be sorted when clickin
 Moreover, a "search box" has been added in order to help the user to find any book depending on the Title, Author or Category.
 
 Assumptions:
+
   -SQL Server Database
   
   -MVC ASP.NET Website
